@@ -1,12 +1,7 @@
 import React from 'react'
 
 export default function Projects(props) {
-  const commonStyle = {
-        backgroundColor: props.mode === 'light' ? '#ffffff' : '#4d4c4b',
-        color: props.mode === 'light' ? 'black' : 'white',
-        fontWeight: 600,
-        fontFamily: '"Lora", serif'
-      }
+  
   return (
     
        
