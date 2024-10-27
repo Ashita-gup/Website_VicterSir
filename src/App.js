@@ -1,5 +1,5 @@
 import 'leaflet/dist/leaflet.css';
-import { Routes, Route } from 'react-router-dom';
+
 import Navbar from './components/Navbar';
 import './App.css';
 import Experience from './components/Experience';
@@ -10,40 +10,32 @@ import Achievements from './components/Achievements';
 import Loading from './components/Loading';
 import Home from './components/Home';
 import Projects from './components/Projects';
-import Talks from './components/Talks';
+
 import Activities from './components/Activities';
-import Testimonials from './components/Testimonials';
+
 import Contact from './components/Contact';
 import React, { useEffect, useState } from 'react';
 import Footer from './components/Footer';
 
 function App() {
   const [mode, setMode] = useState('light');
-  const [loading, setLoading] = useState(true);
+  
   const [firstClick, setFirstClick] = useState(true);
-  const [alert, setAlert] = useState(null);
+ 
 
-  const showAlert = (message, type) => {
-    setAlert({
-      msg: message,
-      type: type,
-    });
-    setTimeout(() => {
-      setAlert(null);
-    }, 1500);
-  };
+  
 
   const toggleMode = () => {
     if (mode === 'light') {
       setMode('dark');
       document.body.style.backgroundColor = '#1a1918';
       document.body.style.color = '#ffffff';
-      showAlert("Dark mode has been enabled", "success");
+      
     } else {
       setMode('light');
       document.body.style.backgroundColor = '#f5e7e0';
       document.body.style.color = '#000000';
-      showAlert("Light mode has been enabled", "success");
+      
     }
   };
 

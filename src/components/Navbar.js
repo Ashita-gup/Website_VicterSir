@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
+
 import { HashLink as Link } from 'react-router-hash-link'
 export default function Navbar(props) {
   return (

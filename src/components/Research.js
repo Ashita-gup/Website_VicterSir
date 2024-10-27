@@ -1,8 +1,8 @@
 import React from 'react'
-import img1 from '../images/cloud_cmpt.jpg';
-import img2 from '../images/cn.jpg';
-import img3 from '../images/Data_a.jpg';
-import img4 from '../images/Optimisation.jpg';
+
+
+
+
 export default function Research(props) {
     const commonStyle = {
         backgroundColor: props.mode === 'light' ? '#ffffff' : '#4d4c4b',

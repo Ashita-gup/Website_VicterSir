@@ -3,9 +3,9 @@ import i1 from '../images/i_1.png';
 import i2 from '../images/i_2.png';
 import i3 from '../images/i_3.png';
 import i4 from '../images/i_4.png';
-import i5 from '../images/victer_sir.webp';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import i6 from '../images/insta_image_website.jpg';
 import i7 from '../images/X_image_website.png';
 import i8 from '../images/victer_sir_home_page.jpg';
