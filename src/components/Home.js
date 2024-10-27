@@ -80,25 +80,25 @@ Ministry of Education, Govt. of India)</p>
      
       <div className="card mb-3 my-2"style={{width: "18rem"}} >
   <div className="card-body" style={{padding: 0}}>
-    <img src={i1} className="card-img-top img-fluid" />
+    <img src={i1} className="card-img-top img-fluid" alt=""/>
   </div>
 </div>
 <br></br><br></br>
 <div className="card text-center mb-3 my-4" style={{width: "18rem"}}>
   <div className="card-body" style={{padding: 0}}>
-    <img src={i2} className="card-img-top img-fluid"/>
+    <img src={i2} className="card-img-top img-fluid" alt=""/>
   </div>
 </div>
 <br></br><br></br>
 <div className="card text-center mb-3 my-4" style={{width: "18rem"}}>
   <div className="card-body" style={{padding: 0}}>
-   <img src={i3} className="card-img-top img-fluid"/>
+   <img src={i3} className="card-img-top img-fluid" alt=""/>
   </div>
 </div>
 <br></br><br></br>
 <div className="card text-end my-4" style={{width: "18rem"}}>
   <div className="card-body" style={{padding: 0}}>
-    <img src={i4} className="card-img-top img-fluid"/>
+    <img src={i4} className="card-img-top img-fluid" alt=""/>
   </div>
 </div>
     </div>

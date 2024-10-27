@@ -16,7 +16,7 @@ export default function Loading(props) {
       <div className="card" style={{margin: 0, padding: 0,height: "100%",objectFit: "cover",flex: 1 }}>
         <div className="card-body" style={{margin: 0, padding: 0}} >
          
-          <img src={img3} className="card-img-top img-fluid" style={{objectFit: "cover",display: "block",height: "100%"}} />
+          <img src={img3} className="card-img-top img-fluid" style={{objectFit: "cover",display: "block",height: "100%"}} alt=""/>
           
         </div>
       </div>
