@@ -71,7 +71,7 @@ export default function Achievements() {
       
       <div>
         
-        <p class="card-text" style={{fontFamily: '"Lora", serif',fontWeight: 600}}>PhD Thesis Examiner - Anna University, Pondicherry Central University, Bharathiyar University, VIT University, SRM Chennai and Sathyabama Institute of Science and Technology
+        <p className="card-text" style={{fontFamily: '"Lora", serif',fontWeight: 600}}>PhD Thesis Examiner - Anna University, Pondicherry Central University, Bharathiyar University, VIT University, SRM Chennai and Sathyabama Institute of Science and Technology
 
 
         </p>
@@ -83,7 +83,7 @@ export default function Achievements() {
 
 <h2 className="my-4" style={{fontFamily: '"Lora", serif',fontWeight: 500}}>International Certifications:
 </h2>
-<div class="container my-2 ">
+<div className="container my-2 ">
   <ul style={{fontFamily: '"Lora", serif',fontWeight: 600}}>
     <li>
     <div className="my-4" >“Data Science and Big Data Analytics”, EMC Academic Associate from EMC2. Verification Code: Q19H24W6K2RESQND
