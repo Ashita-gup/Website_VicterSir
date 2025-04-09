@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f01c0424.css",
+    "main.js": "./static/js/main.23b33b06.js",
+    "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
+    "static/media/victer_sir_home_page.jpg": "./static/media/victer_sir_home_page.91e4d3cac1ff4eeccaf9.jpg",
+    "static/media/img_bg.jpg": "./static/media/img_bg.f31fc6f6627441e9933c.jpg",
+    "static/media/img_contact.jpg": "./static/media/img_contact.e6098d6e46837f86158b.jpg",
+    "static/media/i_1.png": "./static/media/i_1.5de63b064a8e6bc4c65b.png",
+    "static/media/i_2.png": "./static/media/i_2.73216cc04b8240435010.png",
+    "static/media/i_3.png": "./static/media/i_3.6cc3f6da635726b07ca4.png",
+    "static/media/i_4.png": "./static/media/i_4.4ff6213f7e9068e24f3b.png",
+    "static/media/victer_sir.webp": "./static/media/victer_sir.bd4163131dbf39a398eb.webp",
+    "index.html": "./index.html",
+    "main.f01c0424.css.map": "./static/css/main.f01c0424.css.map",
+    "main.23b33b06.js.map": "./static/js/main.23b33b06.js.map",
+    "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01c0424.css",
+    "static/js/main.23b33b06.js"
+  ]
+}
